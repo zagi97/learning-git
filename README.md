@@ -1,3 +1,3 @@
 # learning-git
-amigoscode tutorial about git and github
-This repository(repo) was used to learn git from Amigoscode
+Amigoscode tutorial about git and github.<br>
+This repository(repo) was used to learn git from Amigoscode.
